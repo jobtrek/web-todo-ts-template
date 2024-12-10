@@ -24,5 +24,5 @@ These commands allow you to create good quality commits. Don't forget to lint an
 
 This repo includes two [GitHub actions](https://docs.github.com/en/actions) :
 
-- One to automatically deploy the project to GitHub pages. This workflow executes on each commits in main branch. **You must update the `base` field in the [vite.config.ts](./vite.config.ts) file to your repository name for this to work !!!**
+- One to automatically deploy the project to GitHub pages. This workflow executes on each commits in main branch. **You must update the `base` field in the [vite.config.ts](./vite.config.ts) file to your repository name for this to work !!! And activate GitHub pages source to `GitHub Actions` in your repository settings**
 - One to check the code formatting and linting, this one executes on pull requests.
