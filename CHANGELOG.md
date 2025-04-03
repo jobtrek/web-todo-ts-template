@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/jobtrek/web-todo-template/compare/v1.1.1...v1.1.2) (2025-04-03)
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump vite from 6.2.3 to 6.2.4 ([#21](https://github.com/jobtrek/web-todo-template/issues/21)) ([6fde32e](https://github.com/jobtrek/web-todo-template/commit/6fde32e192f7cd35be2b504cc11c053b04f1eb62))
+
 ## [1.1.1](https://github.com/jobtrek/web-todo-template/compare/v1.1.0...v1.1.1) (2025-03-25)
 
 
