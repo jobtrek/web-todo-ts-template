@@ -2,15 +2,18 @@
 
 Version **v1.1.3** <!-- x-release-please-version -->
 
+## Prerequisites
+
+- [Node.js](https://nodejs.org) version 22. **Use your linux distribution repository or [fnm](https://github.com/Schniz/fnm?tab=readme-ov-file#installation)**
+- [Pnpm](https://pnpm.io/installation) version 10. **Use pnpm official script for posix systems**i
+
+> You can check working installation with `php -v` and `composer -v`.
+
 ## Setup
 
-1. This project is set up with
-   the [pnpm](https://pnpm.io/installation#using-npm) package manager, you need
-   to install
-   it.
-2. Fork and clone this repository.
-3. From your CLI, move to the project repository with `cd`.
-4. Install the dependencies with `pnpm i`.
+1. Fork and clone this repository.
+2. From your CLI, move to the project repository with `cd`.
+3. Install the dependencies with `pnpm i`.
 
 That's all ! You are ready to go.
 
