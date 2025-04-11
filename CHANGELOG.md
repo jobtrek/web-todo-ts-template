@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.4](https://github.com/jobtrek/web-todo-template/compare/v1.1.3...v1.1.4) (2025-04-11)
+
+
+### Documentation
+
+* update readme prerequisites ([#28](https://github.com/jobtrek/web-todo-template/issues/28)) ([e4af549](https://github.com/jobtrek/web-todo-template/commit/e4af549f5deff0b7d2b1c70df0473134addaf941))
+
+
+### Build System
+
+* update pnpm on actions ([#26](https://github.com/jobtrek/web-todo-template/issues/26)) ([8cf6ad9](https://github.com/jobtrek/web-todo-template/commit/8cf6ad9be34b5b11847472f6b1c9dd8fe79851dc))
+
 ## [1.1.3](https://github.com/jobtrek/web-todo-template/compare/v1.1.2...v1.1.3) (2025-04-11)
 
 
