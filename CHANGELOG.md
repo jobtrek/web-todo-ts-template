@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.6](https://github.com/jobtrek/web-todo-template/compare/v1.1.5...v1.1.6) (2025-05-01)
+
+
+### Bug Fixes
+
+* format command to check ([#34](https://github.com/jobtrek/web-todo-template/issues/34)) ([553100e](https://github.com/jobtrek/web-todo-template/commit/553100ea9e1fde6f621d84f784b888fa56721afa))
+
 ## [1.1.5](https://github.com/jobtrek/web-todo-template/compare/v1.1.4...v1.1.5) (2025-05-01)
 
 
