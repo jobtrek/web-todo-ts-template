@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.8](https://github.com/jobtrek/web-todo-template/compare/v1.1.7...v1.1.8) (2025-06-27)
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump @biomejs/biome from 1.9.4 to 2.0.4 ([#38](https://github.com/jobtrek/web-todo-template/issues/38)) ([e3c3de3](https://github.com/jobtrek/web-todo-template/commit/e3c3de3bf6d7a1fd4879e9be4341a48cd776161d))
+* migrate biome config to v2 ([#40](https://github.com/jobtrek/web-todo-template/issues/40)) ([e6188a7](https://github.com/jobtrek/web-todo-template/commit/e6188a7cf7cf98c694a4b36cac5020614d4cd663))
+
 ## [1.1.7](https://github.com/jobtrek/web-todo-template/compare/v1.1.6...v1.1.7) (2025-05-12)
 
 
