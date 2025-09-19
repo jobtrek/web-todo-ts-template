@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.10](https://github.com/jobtrek/web-todo-template/compare/v1.1.9...v1.1.10) (2025-09-19)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump actions/setup-node from 4 to 5 ([#44](https://github.com/jobtrek/web-todo-template/issues/44)) ([ba00db3](https://github.com/jobtrek/web-todo-template/commit/ba00db3c62170d2771946127c79006adcafa5432))
+* **deps:** major deps update ([#46](https://github.com/jobtrek/web-todo-template/issues/46)) ([fad1fd5](https://github.com/jobtrek/web-todo-template/commit/fad1fd525b6a4f35738eabd75fa774f0121872d9))
+
 ## [1.1.9](https://github.com/jobtrek/web-todo-template/compare/v1.1.8...v1.1.9) (2025-08-25)
 
 
