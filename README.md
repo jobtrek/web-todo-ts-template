@@ -1,6 +1,6 @@
 # Web todo template
 
-Version **v1.1.10** <!-- x-release-please-version -->
+Version **v1.1.11** <!-- x-release-please-version -->
 
 ## Prerequisites
 

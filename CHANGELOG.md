@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.11](https://github.com/jobtrek/web-todo-template/compare/v1.1.10...v1.1.11) (2025-09-19)
+
+
+### Miscellaneous Chores
+
+* add gemini assist styleguide ([#47](https://github.com/jobtrek/web-todo-template/issues/47)) ([273b5e8](https://github.com/jobtrek/web-todo-template/commit/273b5e8c49157423f22da35f61a1fc6103c2a0bc))
+
 ## [1.1.10](https://github.com/jobtrek/web-todo-template/compare/v1.1.9...v1.1.10) (2025-09-19)
 
 
