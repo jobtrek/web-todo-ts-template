@@ -8,8 +8,8 @@
 ## Setup
 
 1. Fork and clone this repository.
-3. From your CLI, move to the project repository with `cd`.
-4. Install the dependencies with `pnpm i`.
+2. From your CLI, move to the project repository with `cd`.
+3. Install the dependencies with `pnpm i`.
 
 That's all ! You are ready to go.
 
